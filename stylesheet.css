@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 200px;
+    width: 100%;
+    border: 2px solid black;
+}
+.contentContainer{
+    height: 800px;
+    width: 100%;
+    border: ;
+}
